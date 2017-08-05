@@ -1,0 +1,66 @@
+{
+ "enable_e10s": false, 
+ "is-sdk-bundled": true, 
+ "jetpackID": "xjcontrerasx@jetpack", 
+ "loader": "addon-sdk/lib/sdk/loader/cuddlefish.js", 
+ "main": "main", 
+ "mainPath": "a-better-firefox-add-on-bar/main", 
+ "manifest": {
+  "a-better-firefox-add-on-bar/main": {
+   "docsSHA256": null, 
+   "jsSHA256": "93cdf4bd96781f446d98a80f1deed4cc53b5b0df92cfc6bd6fb2793b49af090c", 
+   "moduleName": "main", 
+   "packageName": "a-better-firefox-add-on-bar", 
+   "requirements": {
+    "self": "sdk/self", 
+    "userstyles": "userstyles-module/userstyles"
+   }, 
+   "sectionName": "lib"
+  }, 
+  "userstyles-module/userstyles": {
+   "docsSHA256": null, 
+   "jsSHA256": "174b7a6d1e012c7dbc2ec4168f2a93b4261f72494404e839e641d6d988eb2a05", 
+   "moduleName": "userstyles", 
+   "packageName": "userstyles-module", 
+   "requirements": {
+    "chrome": "chrome", 
+    "unload": "sdk/system/unload"
+   }, 
+   "sectionName": "lib"
+  }
+ }, 
+ "metadata": {
+  "a-better-firefox-add-on-bar": {
+   "author": "xjcontrerasx", 
+   "description": "This add-on tweaks the default add-on bar and makes it look much cleaner and more convenient.", 
+   "main": "main", 
+   "name": "a-better-firefox-add-on-bar", 
+   "version": "1.3"
+  }, 
+  "addon-sdk": {
+   "description": "Add-on development made easy.", 
+   "keywords": [
+    "javascript", 
+    "engine", 
+    "addon", 
+    "extension", 
+    "xulrunner", 
+    "firefox", 
+    "browser"
+   ], 
+   "license": "MPL 2.0", 
+   "name": "addon-sdk"
+  }, 
+  "userstyles-module": {
+   "author": "xjcontrerasx", 
+   "description": "A userstyles module for Jetpacks, allow you to add css to content or chrome pages.", 
+   "main": "lib/index", 
+   "name": "userstyles-module", 
+   "version": "1.0.rev2"
+  }
+ }, 
+ "name": "a-better-firefox-add-on-bar", 
+ "sdkVersion": "1.14", 
+ "staticArgs": {}, 
+ "verbose": false
+}

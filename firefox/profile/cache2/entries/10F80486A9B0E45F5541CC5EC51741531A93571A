@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="open-addon-ff-de"
+   version="1.1"
+   viewBox="2 -4 415.00001 136"
+   height="136"
+   width="415">
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Open-addon-FF-de</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title2">Open-addon-FF-de</title>
+  <defs
+     id="defs25">
+    <filter
+       id="filter-2"
+       filterUnits="objectBoundingBox"
+       height="1.1944"
+       width="1.1944"
+       y="-0.097199999"
+       x="-0.097199999">
+      <feOffset
+         id="feOffset11"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="0" />
+      <feGaussianBlur
+         id="feGaussianBlur13"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1"
+         stdDeviation="3.483" />
+      <feColorMatrix
+         id="feColorMatrix15"
+         result="shadowMatrixOuter1"
+         type="matrix"
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" />
+      <feMerge
+         id="feMerge21">
+        <feMergeNode
+           id="feMergeNode17"
+           in="shadowMatrixOuter1" />
+        <feMergeNode
+           id="feMergeNode19"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <circle
+       r="43"
+       cy="43"
+       cx="43"
+       id="magnifier-circle" />
+    <linearGradient
+       x1="11.5"
+       y1="-3.9839456"
+       x2="11.5"
+       y2="33.535755"
+       id="linearGradient-1-3"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F2F2F2"
+         offset="0%"
+         id="stop6-6" />
+      <stop
+         stop-color="#A3A2A2"
+         offset="100%"
+         id="stop8-7" />
+    </linearGradient>
+    <linearGradient
+       y2="33.535755"
+       x2="11.5"
+       y1="-3.9839456"
+       x1="11.5"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4723"
+       xlink:href="#linearGradient-1-3" />
+    <linearGradient
+       y2="33.535755"
+       x2="11.5"
+       y1="-3.9839456"
+       x1="11.5"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4879"
+       xlink:href="#linearGradient-1-3" />
+    <clipPath
+       id="magnifier-clip"
+       clipPathUnits="userSpaceOnUse">
+      <use
+         transform="matrix(0.5,0,0,0.5,234.25283,3.294054)"
+         id="use4976"
+         sketch:type="MSShapeGroup"
+         xlink:href="#magnifier-circle"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-opacity:0.95674301;filter:url(#filter-2)"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         mask="none" />
+    </clipPath>
+    <g
+       id="browser"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <rect
+         id="browser-frame"
+         sketch:type="MSShapeGroup"
+         x="0"
+         y="0"
+         width="282"
+         height="39"
+         rx="3.6202083"
+         style="fill:#dbdbdb" />
+      <g
+         id="browser-nav"
+         transform="translate(8,5)"
+         sketch:type="MSShapeGroup"
+         style="display:inline">
+        <path
+           d="M 4.5,7 C 6.4321721,7 8,5.4332855 8,3.4992826 8,1.5667145 6.4321721,0 4.5,0 2.5678279,0 1,1.5667145 1,3.4992826 1,5.4332855 2.5678279,7 4.5,7"
+           id="Fill-1-6"
+           style="fill:#fefefe" />
+        <path
+           d="M 17.5,7 C 19.432172,7 21,5.4332855 21,3.4992826 21,1.5667145 19.432172,0 17.5,0 15.567828,0 14,1.5667145 14,3.4992826 14,5.4332855 15.567828,7 17.5,7"
+           id="Fill-3-2"
+           style="fill:#fefefe" />
+        <path
+           d="M 29.5,7 C 31.432172,7 33,5.4332855 33,3.4992826 33,1.5667145 31.432172,0 29.5,0 27.567828,0 26,1.5667145 26,3.4992826 26,5.4332855 27.567828,7 29.5,7"
+           id="Fill-5-9"
+           style="fill:#fefefe" />
+        <path
+           d="M 6.044383,11 C 6.044383,11 0,11 0,17.208168 v 3.583664 C 0,20.791832 0,27 6.044383,27 H 28.955617 C 28.955617,27 35,27 35,20.791832 V 17.208168 C 35,17.208168 35,11 28.955617,11 Z"
+           id="Fill-7-1"
+           style="fill:#eeeeec" />
+        <path
+           d="m 7.6095978,18.71582 c 0,0 -1.3715951,0.795622 0,1.591245 l 6.0188072,3.494029 c 0,0 1.371595,0.795623 1.371595,-0.795622 v -6.986461 c 0,0 0,-1.592843 -1.371595,-0.795623 z"
+           id="Fill-9-2"
+           style="fill:#c6c7c3" />
+        <path
+           d="m 28.390402,18.71582 c 0,0 1.371595,0.795622 0,1.591245 l -6.018807,3.494029 c 0,0 -1.371595,0.795623 -1.371595,-0.795622 v -6.986461 c 0,0 0,-1.592843 1.371595,-0.795623 z"
+           id="Fill-11-7"
+           style="fill:#c6c7c3" />
+      </g>
+      <rect
+         id="browser-addr"
+         sketch:type="MSShapeGroup"
+         x="51"
+         y="18"
+         width="181"
+         height="13"
+         style="fill:#ffffff" />
+      <g
+         id="button-icon"
+         transform="translate(244,14)">
+        <rect
+           id="button"
+           sketch:type="MSShapeGroup"
+           x="1"
+           y="1"
+           width="21"
+           height="21"
+           rx="3"
+           style="fill:url(#linearGradient4723);stroke:#000000;stroke-opacity:0.1" />
+        <path
+           id="anonymox-icon"
+           d="m 8.1110139,3.8787877 c 0,0 -0.6768923,0 -0.6768923,0.378641 0,0.3787934 2.9123034,5.435304 2.9123034,5.435304 0,0 0.171339,0.3199203 0.171339,0.7741683 0,0.454248 -5.2646583,7.87525 -5.2646583,7.87525 0,0 -0.4513112,0.530158 0.3757666,0.757282 0,0 1.5042728,0.378489 2.1813187,-0.378641 0.6767431,-0.757282 3.534651,-5.224914 3.534651,-5.224914 0,0 0.451465,-0.757434 0.977869,-0.757434 0.526408,0 0.82738,0.303034 1.052961,0.757434 0.225581,0.454248 0.97772,2.347454 1.955286,2.498971 0.977871,0.151366 1.579372,0.07561 2.030832,-0.303034 0.150488,-0.303035 -0.45146,-0.908648 -0.45146,-0.908648 L 14.353392,10.84539 c 0,0 -0.150488,-0.454248 0,-0.75713 0.150488,-0.3030353 2.858064,-5.3764313 2.858064,-5.3764313 0,0 0.451162,-0.5301584 -0.150642,-0.7572826 -0.601497,-0.2271238 -1.955283,0 -2.25611,0.3028826 -0.300824,0.3030346 -0.451312,0.6059173 -0.6018,0.9844061 -0.150489,0.3786415 -0.751985,2.1203302 -0.751985,2.1203302 0,0 -0.300828,0.7571302 -0.97772,0.7571302 -0.676892,0 -1.053111,-0.5298541 -1.278692,-1.2115302 C 10.968926,6.2263931 10.442518,4.6362221 10.141695,4.408946 9.8407183,4.1816703 9.7654765,3.8787877 8.1110139,3.8787877"
+           style="fill:#1e719b;stroke-width:0.45190319" />
+      </g>
+    </g>
+  </defs>
+  <g
+     transform="translate(-3.21791,6.6408009)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     sketch:type="MSPage"
+     id="Page">
+    <g
+       transform="translate(4,3)"
+       sketch:type="MSLayerGroup"
+       id="Open-addon-FF-de">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="browser-positioned"
+         transform="translate(5.21791,16.795522)"
+         xlink:href="#browser" />
+      <g
+         style="display:inline"
+         transform="translate(217)"
+         id="magnifier">
+        <mask
+           fill="white"
+           sketch:name="Oval 16"
+           id="mask-4">
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             id="use41"
+             xlink:href="#magnifier-circle" />
+        </mask>
+        <use
+           mask="none"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-opacity:0.95674301;filter:url(#filter-2)"
+           xlink:href="#magnifier-circle"
+           sketch:type="MSShapeGroup"
+           id="Oval-16" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           clip-path="url(#magnifier-clip)"
+           xlink:href="#browser"
+           transform="matrix(2,0,0,2,-468.50567,-6.588108)"
+           id="browser-magnified" />
+        <g
+           clip-path="url(#magnifier-clip)"
+           transform="matrix(2,0,0,2,-468.50567,-6.588108)"
+           id="g4877"
+           style="display:none;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+          <rect
+             id="rect4853"
+             sketch:type="MSShapeGroup"
+             x="0"
+             y="0"
+             width="282"
+             height="39"
+             rx="10"
+             style="fill:#dbdbdb" />
+          <g
+             id="g4867"
+             transform="translate(8,5)"
+             sketch:type="MSShapeGroup"
+             style="display:inline">
+            <path
+               d="M 4.5,7 C 6.4321721,7 8,5.4332855 8,3.4992826 8,1.5667145 6.4321721,0 4.5,0 2.5678279,0 1,1.5667145 1,3.4992826 1,5.4332855 2.5678279,7 4.5,7"
+               id="path4855"
+               style="fill:#fefefe" />
+            <path
+               d="M 17.5,7 C 19.432172,7 21,5.4332855 21,3.4992826 21,1.5667145 19.432172,0 17.5,0 15.567828,0 14,1.5667145 14,3.4992826 14,5.4332855 15.567828,7 17.5,7"
+               id="path4857"
+               style="fill:#fefefe" />
+            <path
+               d="M 29.5,7 C 31.432172,7 33,5.4332855 33,3.4992826 33,1.5667145 31.432172,0 29.5,0 27.567828,0 26,1.5667145 26,3.4992826 26,5.4332855 27.567828,7 29.5,7"
+               id="path4859"
+               style="fill:#fefefe" />
+            <path
+               d="M 6.044383,11 C 6.044383,11 0,11 0,17.208168 v 3.583664 C 0,20.791832 0,27 6.044383,27 H 28.955617 C 28.955617,27 35,27 35,20.791832 V 17.208168 C 35,17.208168 35,11 28.955617,11 Z"
+               id="path4861"
+               style="fill:#eeeeec" />
+            <path
+               d="m 7.6095978,18.71582 c 0,0 -1.3715951,0.795622 0,1.591245 l 6.0188072,3.494029 c 0,0 1.371595,0.795623 1.371595,-0.795622 v -6.986461 c 0,0 0,-1.592843 -1.371595,-0.795623 z"
+               id="path4863"
+               style="fill:#c6c7c3" />
+            <path
+               d="m 28.390402,18.71582 c 0,0 1.371595,0.795622 0,1.591245 l -6.018807,3.494029 c 0,0 -1.371595,0.795623 -1.371595,-0.795622 v -6.986461 c 0,0 0,-1.592843 1.371595,-0.795623 z"
+               id="path4865"
+               style="fill:#c6c7c3" />
+          </g>
+          <rect
+             id="rect4869"
+             sketch:type="MSShapeGroup"
+             x="51"
+             y="18"
+             width="181"
+             height="13"
+             style="fill:#ffffff" />
+          <g
+             id="g4875"
+             transform="translate(244,14)">
+            <rect
+               id="rect4871"
+               sketch:type="MSShapeGroup"
+               x="1"
+               y="1"
+               width="21"
+               height="21"
+               rx="3"
+               style="fill:url(#linearGradient4879);stroke:#000000;stroke-opacity:0.1" />
+            <path
+               id="path4873"
+               d="m 8.1110139,3.8787877 c 0,0 -0.6768923,0 -0.6768923,0.378641 0,0.3787934 2.9123034,5.435304 2.9123034,5.435304 0,0 0.171339,0.3199203 0.171339,0.7741683 0,0.454248 -5.2646583,7.87525 -5.2646583,7.87525 0,0 -0.4513112,0.530158 0.3757666,0.757282 0,0 1.5042728,0.378489 2.1813187,-0.378641 0.6767431,-0.757282 3.534651,-5.224914 3.534651,-5.224914 0,0 0.451465,-0.757434 0.977869,-0.757434 0.526408,0 0.82738,0.303034 1.052961,0.757434 0.225581,0.454248 0.97772,2.347454 1.955286,2.498971 0.977871,0.151366 1.579372,0.07561 2.030832,-0.303034 0.150488,-0.303035 -0.45146,-0.908648 -0.45146,-0.908648 L 14.353392,10.84539 c 0,0 -0.150488,-0.454248 0,-0.75713 0.150488,-0.3030353 2.858064,-5.3764313 2.858064,-5.3764313 0,0 0.451162,-0.5301584 -0.150642,-0.7572826 -0.601497,-0.2271238 -1.955283,0 -2.25611,0.3028826 -0.300824,0.3030346 -0.451312,0.6059173 -0.6018,0.9844061 -0.150489,0.3786415 -0.751985,2.1203302 -0.751985,2.1203302 0,0 -0.300828,0.7571302 -0.97772,0.7571302 -0.676892,0 -1.053111,-0.5298541 -1.278692,-1.2115302 C 10.968926,6.2263931 10.442518,4.6362221 10.141695,4.408946 9.8407183,4.1816703 9.7654765,3.8787877 8.1110139,3.8787877"
+               style="fill:#1e719b;stroke-width:0.45190319" />
+          </g>
+        </g>
+      </g>
+      <g
+         sketch:type="MSShapeGroup"
+         transform="translate(280,21)"
+         id="arrow-label">
+        <path
+           style="stroke:#808080;stroke-width:2"
+           id="arrow-body"
+           d="m 0,17.989976 c 0,0 16.140916,-12.6585611 43,-9.5224659" />
+        <path
+           style="stroke:#808080;stroke-width:2"
+           id="arrow-tip"
+           d="M 8.4952894,5 0,17.989976 15,21" />
+        <text
+           id="text4863"
+           y="14.487001"
+           x="46.221142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#55626a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:16px;line-height:12px"
+             y="14.487001"
+             x="46.221142"
+             id="tspan4861">Click here</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
+ØüÐx Ô      Y{?qY{?q>!qY{L   H    :http://www.anonymox.net/img/gettingstarted/addon-guide-firefox-0-en.svg necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+X-Powered-By: Express
+Accept-Ranges: bytes
+Cache-Control: public, max-age=3600
+Last-Modified: Thu, 15 Jun 2017 18:10:25 GMT
+Etag: W/"356c-15cacf300ce"
+Content-Type: image/svg+xml
+Content-Length: 13676
+Date: Fri, 28 Jul 2017 13:37:14 GMT
+Age: 58
+X-Cache-Lookup: HIT from web1-3.anonymox.net:80
+X-Cache: HIT from web1-3.anonymox.net, MISS from uk5
+Via: 1.1 web1-3.anonymox.net (squid/3.5.19), 1.1 uk5 (squid/3.5.25)
+ original-response-headers X-Powered-By: Express
+Accept-Ranges: bytes
+Cache-Control: public, max-age=3600
+Last-Modified: Thu, 15 Jun 2017 18:10:25 GMT
+Etag: W/"356c-15cacf300ce"
+Content-Type: image/svg+xml
+Content-Length: 13676
+Date: Fri, 28 Jul 2017 13:37:14 GMT
+Age: 58
+X-Cache: HIT from web1-3.anonymox.net
+X-Cache-Lookup: HIT from web1-3.anonymox.net:80
+X-Cache: MISS from uk5
+Via: 1.1 web1-3.anonymox.net (squid/3.5.19), 1.1 uk5 (squid/3.5.25)
+Connection: keep-alive
+ net-response-time-onstart 3811 net-response-time-onstop 6722   5l

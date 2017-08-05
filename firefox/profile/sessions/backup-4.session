@@ -1,0 +1,5 @@
+[SessionManager v2]
+name=[ Older Browsing Session (2017-07-28 19:29) ]
+timestamp=1501250347843
+autosave=false	count=1/1	group=Backup Sessions	screensize=1366x768
+{"version":["sessionrestore",1],"windows":[{"tabs":[{"entries":[{"url":"about:home","title":"Mozilla Firefox Start Page","charset":"","ID":5,"docshellUUID":"{e2a8a4d0-f386-45c6-aad8-273ab8cf011c}","triggeringPrincipal_base64":"SmIS26zLEdO3ZQBgsLbOywAAAAAAAAAAwAAAAAAAAEY=","docIdentifier":5,"persist":true}],"lastAccessed":1501250347838,"hidden":false,"attributes":{},"userContextId":0,"index":1,"image":"chrome://branding/content/icon32.png","iconLoadingPrincipal":"ZT4OTT7kRfqycpfCC8AeuAAAAAAAAAAAwAAAAAAAAEYBLyd8AA6vTdu5NkEya6SKrpIHOlRteE8wkTq4cYEyCMYAAAAABWFib3V0AAAABGhvbWUAAODaHXAvexHTjNAAYLD8FKOSBzpUbXhPMJE6uHGBMgjGAAAAAA5tb3otc2FmZS1hYm91dAAAAARob21lAAAAAAAAAAAA"}],"selected":1,"_closedTabs":[],"busy":false,"extData":{"__SessionManagerWindowId":"window0"},"width":1221,"height":661,"screenX":50,"screenY":28,"sizemode":"maximized"}],"selectedWindow":1,"_closedWindows":[],"session":{"lastUpdate":1501250347842,"startTime":1501250305893,"recentCrashes":0},"global":{}}

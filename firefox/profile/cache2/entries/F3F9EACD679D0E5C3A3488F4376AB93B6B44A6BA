@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<searchresults total_results="62732">
+          <addon id="8174">
+  <name>Ant Video Downloader</name>
+  <type id="1">Extension</type>
+  <guid>anttoolbar@ant.com</guid>
+  <slug>video-downloader-player</slug>
+  <version>2.4.7.50</version>
+  <status id="4">Approved</status>
+  <authors>
+        <author id="12350779">
+      <name>Ant R</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/Roman_Chmunevych/?src=api</link>
+    </author>      </authors>
+  <summary>It has never been simplier to download videos from Youtube, Dailymotion and from most of the video streaming site. 
+Just play the video, click on the toolbar, download and play it immediately in our integrated video player.</summary>
+  <description>&lt;ul&gt;&lt;li&gt;&lt;b&gt;Download videos&lt;/b&gt; from &lt;b&gt;Youtube&lt;/b&gt;, &lt;b&gt;DailyMotion&lt;/b&gt;, and &lt;b&gt;many others&lt;/b&gt;, with the click of a button.&lt;/li&gt;&lt;li&gt;Ant Video Downloader is supplied with standalone &lt;b&gt;video converter&lt;/b&gt; in order to improve compatibility to all sites. &lt;b&gt;&lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/2e997772939a99a7b378a3e741a79980ffb08a4b2dbfc4b5d2a0b1228f06fde4/https%3A//support.ant.com/hc/en-us/articles/115000135526-Why-do-I-need-to-install-video-converter-&#34;&gt;Why do I need to install video converter?&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Our network-based technology &lt;b&gt;will work even with most of the We&#39;s video sites&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Easy to use&lt;/b&gt; : play the video, click the &lt;b&gt;Download&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Safe, open-source, flash video player integrated with your browser&lt;/b&gt; : you can instantly play the videos that you have downloaded and not care about external player, or just use your favourite player.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Integrated Traffic Rank indicator&lt;/b&gt;: The &lt;b&gt;&lt;i&gt;AntRank&lt;/i&gt;&lt;/b&gt; feature provides an accurate ranking analysis for website traffic so that users can see the popularity of the website they are browsing. This feature send anonymous data to our servers about pages you visit, it is turned off by default but you can turn it on in the preferences. &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/5f27322bd3e030ba845aac303559ab1188c87a8dc80a834473be1b0e416c90b3/http%3A//www.ant.com/note_about_privacy&#34;&gt;Read more about the AntRank and our privacy policy.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/442f5fd21b6955cd85f2055f674ca203d269040919ed5e211a9c8b8dd0c95820/http%3A//support.ant.com/&#34;&gt;Technical support&lt;/a&gt;&lt;/b&gt; is available if you have any questions.&lt;/li&gt;&lt;/ul&gt;
+Follow us on &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/f9ef76ee21dd8640667dd9177c45a9f0636a31414732f2f6a8fc70d5d9f42511/https%3A//twitter.com/AntComSearch&#34;&gt;Twitter&lt;/a&gt; and &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/3e4ee7fec1f81a22e3c1d3baababe1e44a63c5f7b344cd9ba2f13f14c6c6110a/https%3A//www.facebook.com/ant.com1&#34;&gt;Facebook&lt;/a&gt;</description><license>
+    <name>Mozilla Public License Version 1.1</name>
+    <url>http://www.mozilla.org/MPL/MPL-1.1.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/8/8174-64.png?modified=1497256999</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/8/8174-32.png?modified=1497256999</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>26.0</min_version>
+      <max_version>36.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="600" height="354">
+        https://addons.cdn.mozilla.net/user-media/previews/full/61/61523.png?src=api&amp;modified=1480935174
+      </full>
+      <thumbnail type="image/png" width="200" height="118">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/61/61523.png?src=api&amp;modified=1480935174
+      </thumbnail><caption>This addon add a download button in Firefox, when a video is detected you just have to click on this button to download the video.</caption></preview><preview position="1">
+      <full type="image/png" width="600" height="450">
+        https://addons.cdn.mozilla.net/user-media/previews/full/61/61524.png?src=api&amp;modified=1480935174
+      </full>
+      <thumbnail type="image/png" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/61/61524.png?src=api&amp;modified=1480935174
+      </thumbnail><caption>1 - Visit your favourite streaming video site and play the video you like
+
+2 - Click on the &#34;Download&#34; button of the Ant Video Downloader</caption></preview><preview position="2">
+      <full type="image/png" width="600" height="450">
+        https://addons.cdn.mozilla.net/user-media/previews/full/61/61525.png?src=api&amp;modified=1480935174
+      </full>
+      <thumbnail type="image/png" width="200" height="150">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/61/61525.png?src=api&amp;modified=1480935174
+      </thumbnail><caption>3 - Click on &#34;Player&#34; in the Ant Video Downloader panel 
+
+4 - Play your video as many time as you want and without being connected to Internet ;)</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-GB/firefox/addon/video-downloader-player/?src=api</learnmore><install hash="sha256:d8cb7998a35743144c369ad3d6375604e8f74b7361df32a4bd4496cb483f7eb3"
+    os="ALL"
+    size="450125">https://addons.mozilla.org/firefox/downloads/file/624560/ant_video_downloader-2.4.7.50-fx.xpi?src=api</install>
+  <install hash="sha256:fda9b581ddba1841d00bcc2c492bcda11b9bbcbabd1d3e7c4e1e31e3e4c7c1cf" os=""
+             size="416768"
+             status="Beta">
+      https://addons.mozilla.org/firefox/downloads/file/135415/ant_video_downloader_and_player-2.4.5b3-fx.xpi?src=api
+    </install>
+    <developer_comments></developer_comments>
+    <reviews num="537">
+      https://addons.mozilla.org/en-GB/firefox/addon/video-downloader-player/reviews/?src=api
+    </reviews>
+    <total_downloads>51494970</total_downloads>
+    <weekly_downloads>36573</weekly_downloads>
+    <daily_users>304614</daily_users>
+    <created epoch="1216319217">
+      2008-07-17T18:26:57Z
+    </created>
+    <last_updated epoch="1491505145">
+      2017-04-06T18:59:05Z
+    </last_updated>
+    <homepage>http://www.ant.com/video-downloader</homepage>
+    <support>http://support.ant.com</support>
+    <featured>0</featured>
+        <performance>
+    </performance>
+
+    </addon>
+  <addon id="741563">
+  <name>r/random</name>
+  <type id="1">Extension</type>
+  <guid>{320f7b79-08cd-4028-bbb4-9eb758466e5b}</guid>
+  <slug>r-random</slug>
+  <version>0.1</version>
+  <status id="4">Approved</status>
+  <authors>
+        <author id="12594018">
+      <name>Logan Marchione</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/loganmarchione/?src=api</link>
+    </author>      </authors>
+  <summary>This extension loads r/random from Reddit.</summary>
+  <description>This extension loads r/random from Reddit.
+
+Source available on:
+&lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/5779446a77174f1ff2c822a7915047df4756668aa3f0ae6dec8563a9889f71c3/https%3A//github.com/loganmarchione/r-random&#34;&gt;https://github.com/loganmarchione/r-random&lt;/a&gt;</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/741/741563-64.png?modified=1476483619</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/741/741563-32.png?modified=1476483619</icon>
+  <compatible_applications><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>48.0</min_version>
+      <max_version>*</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>48.0</min_version>
+      <max_version>*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>0</rating>
+  <learnmore>https://addons.mozilla.org/en-GB/firefox/addon/r-random/?src=api</learnmore><install hash="sha256:de7084c61a3d421594ddf53383ef442c6eb8318c828c8fc842fb20986ae5cc00"
+    os="ALL"
+    size="18863">https://addons.mozilla.org/firefox/downloads/file/520475/rrandom-0.1-an+fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="0">
+      https://addons.mozilla.org/en-GB/firefox/addon/r-random/reviews/?src=api
+    </reviews>
+    <total_downloads>665</total_downloads>
+    <weekly_downloads>5</weekly_downloads>
+    <daily_users>17</daily_users>
+    <created epoch="1476469346">
+      2016-10-14T18:22:26Z
+    </created>
+    <last_updated epoch="1476482493">
+      2016-10-14T22:01:33Z
+    </last_updated>
+    <homepage>https://www.loganmarchione.com/</homepage>
+    <support>https://github.com/loganmarchione/r-random</support>
+    <featured>0</featured>
+        <performance>
+    </performance>
+
+    </addon>
+  <addon id="761649">
+  <name>r/edirect</name>
+  <type id="1">Extension</type>
+  <guid>{c0e1d8e7-245b-4d53-9521-ac8c5eb5fb5c}</guid>
+  <slug>r-edirect</slug>
+  <version>1.0.1</version>
+  <status id="4">Approved</status>
+  <authors>
+        <author id="12721361">
+      <name>Samuel Marinov</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/loudest12man/?src=api</link>
+    </author>      </authors>
+  <summary>Rewrites all URLs in the address bar written in the form &#34;r/foo&#34; and redirects the user to the appropriate subreddit.</summary>
+  <description></description><license>
+    <name>GNU General Public License, version 3.0</name>
+    <url>http://www.gnu.org/licenses/gpl-3.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/761/761649-64.png?modified=1482258020</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/761/761649-32.png?modified=1482258020</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>48.0</min_version>
+      <max_version>*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>48.0</min_version>
+      <max_version>*</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula></eula><previews></previews><rating>3</rating>
+  <learnmore>https://addons.mozilla.org/en-GB/firefox/addon/r-edirect/?src=api</learnmore><install hash="sha256:7e174cc54297df0e568ce8a8656b80eba46150c5bc213c358801e7b3932cae28"
+    os="ALL"
+    size="7068">https://addons.mozilla.org/firefox/downloads/file/557880/redirect-1.0.1-an+fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="1">
+      https://addons.mozilla.org/en-GB/firefox/addon/r-edirect/reviews/?src=api
+    </reviews>
+    <total_downloads>574</total_downloads>
+    <weekly_downloads>8</weekly_downloads>
+    <daily_users>13</daily_users>
+    <created epoch="1482197251">
+      2016-12-20T01:27:31Z
+    </created>
+    <last_updated epoch="1482254524">
+      2016-12-20T17:22:04Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+    </performance>
+
+    </addon>
+  <addon id="799289">
+  <name>URL Tracking Protector - G/R</name>
+  <type id="1">Extension</type>
+  <guid>{50405fc9-1228-4ddf-8235-4c993600b4cb}</guid>
+  <slug>url-tracking-protector-g-r</slug>
+  <version>1.1</version>
+  <status id="4">Approved</status>
+  <authors>
+        <author id="12904562">
+      <name>Smartfon</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/Smartfon/?src=api</link>
+    </author>      </authors>
+  <summary>Protects your privacy by removing URL tracking from Reddit links and Google search results.
+
+Credits: Addon contains open scripts written by Redditor OperaSona and dindog from &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/a17f14c2c9b8b44e80c71a33708277cf48ed61d4d21f66a375971a6211ee646e/http%3A//user-scripts-mirror.org&#34;&gt;user-scripts-mirror.org&lt;/a&gt;</summary>
+  <description></description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64"></icon>
+  <icon size="32"></icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>48.0</min_version>
+      <max_version>*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application><application>
+      <name>Firefox for Android</name>
+      <application_id>61</application_id>
+      <min_version>48.0</min_version>
+      <max_version>*</max_version>
+      <appID>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>WINNT</os><os>Darwin</os><os>Linux</os></all_compatible_os>
+  <eula></eula><previews><preview position="0">
+      <full type="image/png" width="700" height="77">
+        https://addons.cdn.mozilla.net/user-media/previews/full/183/183361.png?src=api&amp;modified=1490505162
+      </full>
+      <thumbnail type="image/png" width="200" height="22">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/183/183361.png?src=api&amp;modified=1490505162
+      </thumbnail><caption>Prevents tracking by out.reddit.com. You no longer need to be signed into your Reddit account to disable this.</caption></preview><preview position="1">
+      <full type="image/png" width="700" height="73">
+        https://addons.cdn.mozilla.net/user-media/previews/full/183/183362.png?src=api&amp;modified=1490505162
+      </full>
+      <thumbnail type="image/png" width="200" height="21">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/183/183362.png?src=api&amp;modified=1490505162
+      </thumbnail><caption>When you open a Google search result in a new tab, a referrer  tracking is attached to the URL. It will be removed.</caption></preview></previews><rating>0</rating>
+  <learnmore>https://addons.mozilla.org/en-GB/firefox/addon/url-tracking-protector-g-r/?src=api</learnmore><install hash="sha256:9483e1e40bd0715de97b8dbc0d0177b86cbd55c6ec9c58d7cf1073ac9f2c3846"
+    os="Linux"
+    size="5238">https://addons.mozilla.org/firefox/downloads/file/616817/url_tracking_protector_gr-1.1-an+fx-linux.xpi?src=api</install>
+  <install hash="sha256:bbbb696982c8a08aa7d3d4c2c156ac1a7104407c968a42964d6544b4f524604b"
+    os="Darwin"
+    size="5237">https://addons.mozilla.org/firefox/downloads/file/616818/url_tracking_protector_gr-1.1-an+fx-mac.xpi?src=api</install>
+  <install hash="sha256:98ee403a7c0e301b35e0fb96b9c53c06f53f11d4bb9d260e6c75037d213623ce"
+    os="WINNT"
+    size="5237">https://addons.mozilla.org/firefox/downloads/file/616819/url_tracking_protector_gr-1.1-an+fx-windows.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="0">
+      https://addons.mozilla.org/en-GB/firefox/addon/url-tracking-protector-g-r/reviews/?src=api
+    </reviews>
+    <total_downloads>1759</total_downloads>
+    <weekly_downloads>40</weekly_downloads>
+    <daily_users>199</daily_users>
+    <created epoch="1490503798">
+      2017-03-26T04:49:58Z
+    </created>
+    <last_updated epoch="1490559407">
+      2017-03-26T20:16:47Z
+    </last_updated>
+    <homepage></homepage>
+    <support></support>
+    <featured>0</featured>
+        <performance>
+    </performance>
+
+    </addon>
+  <addon id="429576">
+  <name>Ant.com Antmarks Extension</name>
+  <type id="1">Extension</type>
+  <guid>antmark@ant.com</guid>
+  <slug>antcom-antmarks-extension</slug>
+  <version>1.1.14</version>
+  <status id="4">Approved</status>
+  <authors>
+        <author id="7053931">
+      <name>ichornous</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/ichornous/?src=api</link>
+    </author><author id="11688126">
+      <name>denys</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/DenysS/?src=api</link>
+    </author><author id="12350779">
+      <name>Ant R</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/Roman_Chmunevych/?src=api</link>
+    </author>      </authors>
+  <summary>Manage your favorite web pages</summary>
+  <description>&lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; Antmarks Extension is a free tool that allows you to save your favorite web pages on your &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; profile, build your own search tool and make full-text search within their content them wherever you are!
+
+To be able to do the mentioned above, you only have to register your free &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; account and install &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; Antmarks extension.
+
+Follow us on &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/f9ef76ee21dd8640667dd9177c45a9f0636a31414732f2f6a8fc70d5d9f42511/https%3A//twitter.com/AntComSearch&#34;&gt;Twitter&lt;/a&gt; and &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/3e4ee7fec1f81a22e3c1d3baababe1e44a63c5f7b344cd9ba2f13f14c6c6110a/https%3A//www.facebook.com/ant.com1&#34;&gt;Facebook&lt;/a&gt;</description><license>
+    <name>Mozilla Public License, version 2.0</name>
+    <url>http://www.mozilla.org/MPL/2.0/</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/429/429576-64.png?modified=1465474291</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/429/429576-32.png?modified=1465474291</icon>
+  <compatible_applications><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>25.0</min_version>
+      <max_version>43.0</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula>END USER LICENSE AGREEMENT
+
+Last modified: March 29, 2013
+
+This End User License Agreement (“Agreement”) governs Your use of the Antmarks Extension. &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; Ltd offers the Antmarks Extension which allow You to bookmark websites (we call them Antmarks) on Your Internet Explorer browser, and all the while save them on Your account in order to search within them later. In this Agreement, the term User and all second-person pronouns (“You”, “Your”, etc.) refer to You and all the first-person pronouns (“Us”, “We”, “Ours”, etc) refer to &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; Ltd. 
+Use of the Antmarks Extension is subject to the Ant Terms of Service and Privacy Policy (the “Policies”) which You can find at &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/2696f19ac8ae239d91d848dba4ef39e16c1c45418fdd3e29a8bc5b09818353c4/http%3A//www.ant.com/privacy-policy&#34;&gt;http://www.ant.com/privacy-policy&lt;/a&gt; and &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/3cb314f759059b950c4e4be87c824f003b2c6de384ab31bd1305ac9a953acd55/http%3A//www.ant.com/terms&#34;&gt;http://www.ant.com/terms&lt;/a&gt;. Consequently, by downloading and using the Antmarks Extension, You are also bound by these Policies.    
+You can easily uninstall the Antmarks Extension by clicking on the “Start” button; then clicking on the “Settings” button, then clicking on the “Control Panel” button, then clicking on the “Add or Remove Programs” button, then selecting “Antmarks Extension”, then clicking on the “Change/Remove” button.  Make sure all Your browser windows are closed before starting the un-installation process. 
+THIS PRODUCT AND ALL THE FEATURES LISTED ABOVE ARE FREE. THIS PRODUCT IS NOT A SPYWARE OR ADWARE.
+This End User License Agreement is a legal contract between You and &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; Ltd. You must agree to this contract and abide by its terms in order to download and use the Antmarks Extension. You must be at least 13 years of age in order to agree to this contract and download this product. If You are not 13 yet, please ask Your parent or Legal guardian to install the Antmarks Extension for You. This End User License Agreement applies to the Antmarks Extension and its features and functionalities developed by &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; Ltd. If You are installing a version of the Antmarks Extension that includes third party features and functionalities or accesses third party content, such third party features, functionalities and content are subject to such third party’s terms of service. 
+In this End User License Agreement, “Website” shall refer to the web pages in the &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/a9f16cdd4e5b023831a345da51507e1852823b826f3c48c74e5144a37a8b91d8/http%3A//www.ant.com&#34;&gt;www.ant.com&lt;/a&gt; domain.
+
+1.License Grant., The Antmarks Extension is being licensed to You by Us on an “AS IS” basis, for Your private personal use only.  Subject to the Terms of this Agreement, We grant You a non-exclusive, revocable, limited license, non-sub-licensable, non-assignable license to download, install and use the Antmarks Extension, including any online or enclosed documentation, data distributed to Your computer for processing and any future programming fixes, updates and upgrades provided to You onto a computer for Your sole use to install, interact with and utilize the Antmarks Extension, including the content and features contained therein. 
+
+2.License Conditions. You may not:
+
+(i)rent, sell, lease, sublicense, distribute, assign, copy, or in any way transfer the Antmarks Extension or this Agreement or use the Antmarks Extension for the benefit of any third party in any manner; 
+(ii)decompile, disassemble, or otherwise reverse-engineer the source code of the Antmarks Extension, or attempt to do so for any reason; 
+(iii)access, create or modify the source code of the Antmarks Extension in any way; 
+(iv)create derivative works on the Antmarks Extension
+You understand that We, in Our sole discretion, may modify or discontinue or suspend Your right to access any of Our services or to use the Antmarks Extension at any time, and We may at any time suspend or terminate any license hereunder and disable the Antmarks Extension or any of its components features. 
+We reserve the right to add features or functions to the Antmarks Extension. When installed on Your computer, the Antmarks Extension periodically communicates with Our servers to request automatic updates when We release a new version of the Antmarks Extension, or when We make new features available. 
+3.Ownership. You acknowledge and agree that the Antmarks Extension is licensed, not sold to You. The proprietary software associated with the Antmarks Extension shall be deemed to include enhancements and new features or modifications thereto and any documentation is a copyrighted work. You acknowledge that the Antmarks Extension, including all code, protocols, software and documentation provided to You by Us is Our property or the property of Our licensors, and are protected by international copyright, trademarks, patents and other proprietary rights and laws relating to trade secrets, and any other intellectual property or proprietary rights recognized in any country or jurisdiction worldwide, including, without limitation, moral or similar rights. You may not delete, alter, or remove any copyright, trademark, or other proprietary rights notice We have placed on the Antmarks Extension. All rights not expressly granted hereunder are expressly reserved to Us and Our licensors.
+
+You represent and warrant that You are either the owner or an authorized user of the computer where the Antmarks Extension is installed. You may use the Antmarks Extension and the Website only for lawful purposes. The Service is subject to, and You agree that You shall at all times comply with, all local, state, national, and international laws, statutes, rules, regulations, ordinances and the like applicable to the use of Our Antmarks Extension and the Website. You agree not to use the Antmarks Extension or the Website to conduct any business or activity or solicit the performance of any activity, which is prohibited by law or by any contractual provision by which You are bound.
+
+4.Trademarks. &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt;, the &#34;&lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/c0da99086be24f68e9b9980d015f721900bdf92baaf0586122ce8ffb5dffb5fa/http%3A//ant.com&#34;&gt;ant.com&lt;/a&gt;&#34; logo, and other &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt; graphics, logos, page headers, button icons, scripts, and service names are Our trademarks or trade dress, or Our affiliates’, in the city-state of Hong Kong and other countries. Neither We nor Our affiliates&#39; trademarks may be used in connection with any product or service that is not Ours, or Our affiliates&#39;, in any manner that is likely to cause confusion among users, or in any manner that disparages or discredits Us or Our affiliates. 
+
+5.Your conduct. Take notice that when You use the Antmarks Extension to bookmark   a web page by clicking on the Antmarks Extension logo, You willingly and immediately take a snapshot of the webpage. The Antmarks Extension automatically forwards the web page’s HTML code to Our servers. We use this information to allow You to later submit a search query within Your Antmarks. We then provide You with search results, to this query, only from Your personal Antmarks.
+
+Please be aware that if a website opts-out, meaning that it does not grant us permission to copy its HTML web page, consequently that particular web page will not appear in Your search results when You submit a search query within Your bookmarks. 
+
+If you do not consent to this, please stop using the Service and uninstall the Antmarks Extension.  
+   
+6.Copyright Notice. We respect the intellectual property rights of others and expect You to do the same. We will respond expeditiously to claims of copyright infringement committed using the Service and/or the Website if such claims are reported to Us. 
+
+If You are a copyright owner, authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Website or Services by contacting Our Copyright Agent. Upon receipt of notice, We will take whatever action, in Our sole discretion, We deem appropriate, including removal of the challenged content from the Website. 
+
+7.Permission to Utilize. In order to receive the benefits provided by the Antmarks Extension, You hereby grant permission for the Antmarks Extension to utilize the processor and bandwidth of Your computer, only in order to provide You the Service.
+
+8.Privacy. When You install the Antmarks Extension, We assign a unique identification code to Your copy of the Antmarks Extension, and such code is written to Your computer’s registry. 
+
+Sometimes, for reasons beyond our control, after You have agreed to install the Antmarks Extension, the Antmarks Extension install process fails. In such an unlikely event, We may pull certain data via an error log file (this data may include, without limitation, Your machine name, computer user name, IP address, operating system information, machine/user permissions, browser type and version, Antmarks Extension partner ID and various other non-personally identifiable diagnostic information). This data will be used solely for the purpose of troubleshooting installation issues with the intent of improving the product and the user experience.
+
+When You use the Antmarks Extension to bookmark a web page, You instantly take a snapshot of the webpage, the Antmarks Extension automatically forwards the web page’s HTML code to Our servers. We use this information to process Your web search requests and to return a search results page to You. For information on additional uses of Your query information by &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/514453a040e745d6782d6547121be1293e93d74bfeb94d4e8e4e7cfb58cfb82a/http%3A//Ant.com&#34;&gt;Ant.com&lt;/a&gt;, please see the Ant Privacy Policy at &lt;a rel=&#34;nofollow&#34; href=&#34;https://outgoing.prod.mozaws.net/v1/2696f19ac8ae239d91d848dba4ef39e16c1c45418fdd3e29a8bc5b09818353c4/http%3A//www.ant.com/privacy-policy&#34;&gt;http://www.ant.com/privacy-policy&lt;/a&gt;.
+
+9.Access and Interference; Passwords. You agree that You will not use any robot, spider, other automatic or manual device or process to interfere or attempt to interfere with the proper working of any of the Antmarks Extension and the Website, except to remove the Antmarks Extension from a computer of which You are an owner or authorized user. You may not violate or attempt to violate the security of the Antmarks Extension. We reserve the right to investigate occurrences which may involve such violations, and may involve, and cooperate with, law enforcement authorities in prosecuting users who have participated in such violations. You agree that it is Your responsibility to install anti-virus software and related protections against viruses, Trojan horses, worms, time bombs, cancelbots or other techniques that may have the effect of damaging, destroying, disrupting or otherwise impairing a computer&#39;s functionality or operation.
+
+10.Disclaimer of Warranty. 
+YOU ACCESS AND USE THE ANTMARKS EXTENSION AT YOUR SOLE RISK. WE PROVIDE THE ANTMARKS EXTENSION ON AN &#34;AS IS,&#34; AND &#34;AS AVAILABLE&#34; BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, SYSTEM INTEGRATION OR NON-INFRINGEMENT. WE MAKE NO REPRESENTATIONS OR WARRANTIES CONCERNING THE ANTMARKS EXTENSION, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF THE ANTMARKS EXTENSION.
+WE DO NOT MAKE ANY REPRESENTATION OR WARRANTY: (A) AS TO THE TIMELINESS, SEQUENCE, ACCURACY, COMPLETENESS, OR RELIABILITY OF THE ANTMARKS EXTENSION, (B) THAT THE ANTMARKS EXTENSION WILL BE AVAILABLE OR WILL OPERATE IN AN UNINTERRUPTED OR ERROR-FREE MANNER, OR (C) THAT ERRORS OR DEFECTS RELATED TO THE ANTMARKS EXTENSION WILL BE CORRECTED. WE ALSO DO NOT WARRANT THAT THE ANTMARKS EXTENSION, OR THE INFORMATION AVAILABLE THROUGH ANTMARKS EXTENSION, IS APPROPRIATE, ACCURATE OR AVAILABLE FOR USE IN ANY PARTICULAR JURISDICTION.
+SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES. IN SUCH JURISDICTIONS, THE FOREGOING DISCLAIMERS MAY NOT APPLY TO YOU INSOFAR AS THEY RELATE TO IMPLIED WARRANTIES.
+THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS AGREEMENT.
+
+11.Termination. You may terminate this Agreement at any time by uninstalling and destroying all copies of the Antmarks Extension in Your possession or control.
+If You do not comply with this Agreement, at any time, We reserve the right to terminate Your access to the Antmarks Extension. We may discontinue or alter any aspect of the Service, including, but not limited to, (i) restricting the time the Service are available, (ii) restricting the amount of use permitted, and (iii) restricting or terminating any user&#39;s right to use the Service, at Our sole discretion and without prior notice or liability. We may also, in Our sole discretion, terminate Your use of the Service, and disable Your use of the Antmarks Extension, for any reason, including, without limitation, for lack of use or if We believe that You have violated or acted inconsistently with the letter or spirit of these license terms. Further, You agree that We shall not be liable to You or any third-party for any termination of Your access to the Services.
+
+12.Limitation of Liability
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT IN NO EVENT WILL WE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOST PROFITS, LOST BUSINESS OR LOST OPPORTUNITY, GOODWILL, OR OTHER INTANGIBLE LOSSES (EVEN IF PARTNER OR WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) OR OTHER RELIEF ARISING OUT OF, OR RELATED TO, THIS AGREEMENT OR TO: (i) YOUR USE OR THE INABILITY TO USE THE ANTMARKS EXTENSION.
+BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR DAMAGES, IN SUCH STATE OR JURISDICTIONS, OUR LIABILITY SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+
+13.Severability. If any provisions of this Agreement shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and conditions and shall not affect the validity and enforceability of any remaining provisions.
+
+14.No Waiver. Our failure to enforce the strict performance of any provision of this Agreement will not constitute a waiver of Our right to subsequently enforce such provisions or any other provisions of this Agreement. No waiver of any provision of this Agreement shall be effective unless in writing. 
+
+15.Applicable Law. The substantive laws of the city-state of Hong Kong, without regard to conflict of laws principles, shall govern all matters relating to or arising from this Agreement, and the use (or inability to use) the software. You hereby submit to the exclusive jurisdiction and venue of the appropriate courts located the city-state of Hong Kong, with respect to all matters arising out of or relating to this Agreement.
+
+16.Contacting Us. We are happy to receive any queries, comments, or requests You may have regarding the terms of this Agreement. Feel free to contact Us at legal@ant.com</eula><previews><preview position="0">
+      <full type="image/png" width="644" height="404">
+        https://addons.cdn.mozilla.net/user-media/previews/full/139/139138.png?src=api&amp;modified=1405043586
+      </full>
+      <thumbnail type="image/png" width="200" height="125">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/139/139138.png?src=api&amp;modified=1405043586
+      </thumbnail><caption>Click to add website to your collection.</caption></preview><preview position="1">
+      <full type="image/png" width="644" height="404">
+        https://addons.cdn.mozilla.net/user-media/previews/full/139/139140.png?src=api&amp;modified=1405043586
+      </full>
+      <thumbnail type="image/png" width="200" height="125">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/139/139140.png?src=api&amp;modified=1405043586
+      </thumbnail><caption>Go to ant.com and search your web.</caption></preview><preview position="2">
+      <full type="image/png" width="644" height="404">
+        https://addons.cdn.mozilla.net/user-media/previews/full/139/139142.png?src=api&amp;modified=1405043586
+      </full>
+      <thumbnail type="image/png" width="200" height="125">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/139/139142.png?src=api&amp;modified=1405043586
+      </thumbnail><caption>Marke your own search engine.</caption></preview></previews><rating>5</rating>
+  <learnmore>https://addons.mozilla.org/en-GB/firefox/addon/antcom-antmarks-extension/?src=api</learnmore><install hash="sha256:69feff8be1e6243281f27ef73b79874cb9a81b9d8a6765f4f36e5d2297032245"
+    os="ALL"
+    size="127839">https://addons.mozilla.org/firefox/downloads/file/411515/antcom_antmarks_extension-1.1.14-fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="5">
+      https://addons.mozilla.org/en-GB/firefox/addon/antcom-antmarks-extension/reviews/?src=api
+    </reviews>
+    <total_downloads>2219263</total_downloads>
+    <weekly_downloads>478</weekly_downloads>
+    <daily_users>20719</daily_users>
+    <created epoch="1365154768">
+      2013-04-05T09:39:28Z
+    </created>
+    <last_updated epoch="1458034050">
+      2016-03-15T09:27:30Z
+    </last_updated>
+    <homepage></homepage>
+    <support>http://support.ant.com/anonymous_requests/new</support>
+    <featured>0</featured>
+        <performance>
+    </performance>
+
+    </addon>
+  <addon id="629">
+  <name>NewsFox</name>
+  <type id="1">Extension</type>
+  <guid>{899DF1F8-2F43-4394-8315-37F6744E6319}</guid>
+  <slug>newsfox</slug>
+  <version>1.0.9.4.1</version>
+  <status id="4">Approved</status>
+  <authors>
+        <author id="9816">
+      <name>Andrey Gromyko</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/andrey-gromyko/?src=api</link>
+    </author><author id="104293">
+      <name>R Pruitt</name>
+      <link>https://addons.mozilla.org/en-GB/firefox/user/r-pruitt/?src=api</link>
+    </author>      </authors>
+  <summary>NewsFox is an efficient 3-pane(email) style Atom/RSS feed reader.</summary>
+  <description>NewsFox allows you to group your feeds as you wish, read feed content offline, update feeds when you want, 1-click subscribe with the NewsFox icon, and read other feeds while updating.
+
+Locales(1.0.9.4.1): bg-BG, cs-CZ, da, de, en-US, es-ES, et-EE, fr, hu-HU, it, ja-JP, nl, pl, ru, sk-SK, sl-SI, sv-SE, zh-CN, zh-TW.</description><license>
+    <name>GNU General Public License, version 2.0</name>
+    <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+  </license>  <icon size="64">https://addons.cdn.mozilla.net/user-media/addon_icons/0/629-64.png?modified=1460195520</icon>
+  <icon size="32">https://addons.cdn.mozilla.net/user-media/addon_icons/0/629-32.png?modified=1460195520</icon>
+  <compatible_applications><application>
+      <name>SeaMonkey</name>
+      <application_id>59</application_id>
+      <min_version>2.0</min_version>
+      <max_version>2.42a1</max_version>
+      <appID>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</appID>
+    </application><application>
+      <name>Firefox</name>
+      <application_id>1</application_id>
+      <min_version>2.0</min_version>
+      <max_version>55.*</max_version>
+      <appID>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</appID>
+    </application></compatible_applications>
+  <all_compatible_os><os>ALL</os></all_compatible_os>
+  <eula>The addon is released under MPL 1.1/GPL 2.0/LGPL 2.1.</eula><previews><preview position="0">
+      <full type="image/png" width="469" height="260">
+        https://addons.cdn.mozilla.net/user-media/previews/full/17/17056.png?src=api&amp;modified=1331218902
+      </full>
+      <thumbnail type="image/png" width="200" height="110">
+        https://addons.cdn.mozilla.net/user-media/previews/thumbs/17/17056.png?src=api&amp;modified=1331218902
+      </thumbnail><caption>0.8.1</caption></preview></previews><rating>4</rating>
+  <learnmore>https://addons.mozilla.org/en-GB/firefox/addon/newsfox/?src=api</learnmore><install hash="sha256:b132ab878cbc558f414abe51d7eb41967bda0f6317c0c5674c7c0bc570641d0d"
+    os="ALL"
+    size="415586">https://addons.mozilla.org/firefox/downloads/file/404963/newsfox-1.0.9.4.1-sm+fx.xpi?src=api</install>
+  <developer_comments></developer_comments>
+    <reviews num="221">
+      https://addons.mozilla.org/en-GB/firefox/addon/newsfox/reviews/?src=api
+    </reviews>
+    <total_downloads>928520</total_downloads>
+    <weekly_downloads>326</weekly_downloads>
+    <daily_users>24833</daily_users>
+    <created epoch="1114501646">
+      2005-04-26T07:47:26Z
+    </created>
+    <last_updated epoch="1456669367">
+      2016-02-28T14:22:47Z
+    </last_updated>
+    <homepage>http://newsfox.mozdev.org/</homepage>
+    <support>http://newsfox.mozdev.org/</support>
+    <featured>0</featured>
+        <performance>
+    </performance>
+
+    </addon>
+    </searchresults>�S��E�      Y{I^Y{Ib>       j    :https://services.addons.mozilla.org/en-GB/firefox/api/1.5/search/r/all/30/Linux/54.0.1/normal?src=firefox necko:classified 1 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAOiMIIDnjCCAoagAwIBAgIEdnPxFTANBgkqhkiG9w0BAQsFADCBijEUMBIGA1UEBhMLUG9ydFN3aWdnZXIxFDASBgNVBAgTC1BvcnRTd2lnZ2VyMRQwEgYDVQQHEwtQb3J0U3dpZ2dlcjEUMBIGA1UEChMLUG9ydFN3aWdnZXIxFzAVBgNVBAsTDlBvcnRTd2lnZ2VyIENBMRcwFQYDVQQDEw5Qb3J0U3dpZ2dlciBDQTAeFw0xNDAzMjExMDU5NTFaFw0zNzAzMjExMDU5NTFaMGsxFDASBgNVBAYTC1BvcnRTd2lnZ2VyMRQwEgYDVQQKEwtQb3J0U3dpZ2dlcjEXMBUGA1UECxMOUG9ydFN3aWdnZXIgQ0ExJDAiBgNVBAMTG3NlcnZpY2VzLmFkZG9ucy5tb3ppbGxhLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIWGmeS0XguXNwZsePbSr5bX2PTNsb4o8g9lnGpVv5WTWbXJ2zYfXibPz75CaLY8cVLM59uzqMsTjEc04+sukFXdq0+VhOfpZgPqwLyU07a2l79AgfXlMv8U6N9ZY9qV/HlUa+4XgZoeVOpxh1vLoiPKR9jWVN1TaQ2zFqBEFFkfutQhGstJHB/t4jIS+CzZ7cRQMCjxmlYajQdqqlQXjhp9dWf/LH/5XdylqsAOnnUjkm3gZHAbrP8w8OMLVkqW1cs5dmQh6iMEBlGGEulzsp7cxzHji7csSISdVcNtaFNjkAVFZgXnYe0oaBzQqw4TcIC0jNTUVm7LjwL5VtZSBiUCAwEAAaMqMCgwJgYDVR0RBB8wHYIbc2VydmljZXMuYWRkb25zLm1vemlsbGEub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQBkLAB4xCfmpj66LiwdbqAxScm5POOlTYapFQIhAjuLpJQ7Car17k4480FYyILq7MVmq6BChgsgSahpDAuNvY7bxmng5yv+QM8eZzKDjHnsQFJb7lNW44uqjua1U4CCG2pQ+9usTBmfgAzS9GUgw3X5wc6anbHzXwmGnR8AKCAhaXkI80EMW9XNCInGMjT0tR+CSK/Dxyk1JfovJn9PcLywAk4XQ/f4UX47EjCqXgHMG0NfBH3suYus6er23fSUMZF3rX9C+Ohv060BjXxQYiGb0OK4txokkUfek9x+dFwbV2oNM3S8iDOvvTZt6SFgFo3SzdRr0KWV3rJYSkjP6aXiwC8BAwAAAAABAQAAAAA= request-method GET request-Accept-Encoding gzip, deflate, br response-head HTTP/1.1 200 OK
+content-security-policy: script-src https://ssl.google-analytics.com/ga.js https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.paypalobjects.com/js/external/dg.js https://addons.cdn.mozilla.net; style-src 'self' 'unsafe-inline' https://addons.cdn.mozilla.net; default-src 'self'; frame-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; child-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; img-src 'self' data: blob: https://www.paypal.com/webapps/checkout/ https://www.paypal.com/webapps/hermes/api/logger https://ssl.google-analytics.com https://addons.cdn.mozilla.net https://static.addons.mozilla.net https://sentry.prod.mozaws.net; media-src https://videos.cdn.mozilla.net; object-src 'none'; connect-src 'self' https://sentry.prod.mozaws.net; font-src 'self' https://addons.cdn.mozilla.net; form-action 'self' https://developer.mozilla.org; base-uri 'self' https://addons.mozilla.org; report-uri /__cspreport__
+Content-Type: text/xml; charset=utf-8
+Date: Fri, 28 Jul 2017 14:25:53 GMT
+Etag: "8fa616b70af1346c1fd392f137b05bfc"
+Public-Key-Pins: max-age=5184000; includeSubDomains; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Content-Length: 42082
+ original-response-headers content-security-policy: script-src https://ssl.google-analytics.com/ga.js https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.paypalobjects.com/js/external/dg.js https://addons.cdn.mozilla.net; style-src 'self' 'unsafe-inline' https://addons.cdn.mozilla.net; default-src 'self'; frame-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; child-src 'self' https://ic.paypal.com https://paypal.com https://www.google.com/recaptcha/ https://www.paypal.com; img-src 'self' data: blob: https://www.paypal.com/webapps/checkout/ https://www.paypal.com/webapps/hermes/api/logger https://ssl.google-analytics.com https://addons.cdn.mozilla.net https://static.addons.mozilla.net https://sentry.prod.mozaws.net; media-src https://videos.cdn.mozilla.net; object-src 'none'; connect-src 'self' https://sentry.prod.mozaws.net; font-src 'self' https://addons.cdn.mozilla.net; form-action 'self' https://developer.mozilla.org; base-uri 'self' https://addons.mozilla.org; report-uri /__cspreport__
+Content-Type: text/xml; charset=utf-8
+Date: Fri, 28 Jul 2017 14:25:53 GMT
+Etag: "8fa616b70af1346c1fd392f137b05bfc"
+Public-Key-Pins: max-age=5184000; includeSubDomains; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Connection: Close
+Content-Length: 42082
+ uncompressed-len 0   �b

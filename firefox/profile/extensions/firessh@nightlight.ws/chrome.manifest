@@ -1,0 +1,18 @@
+content firessh                                  content/
+locale  firessh cs                               locale/cs/
+locale  firessh da                               locale/da/
+locale  firessh en-US                            locale/en-US/
+locale  firessh fr                               locale/fr/
+locale  firessh it-IT                            locale/it-IT/
+locale  firessh ja-JP                            locale/ja-JP/
+locale  firessh pt-PT                            locale/pt-PT/
+locale  firessh sv-SE                            locale/sv-SE/
+locale  firessh tr                               locale/tr/
+locale  firessh zh-CN                            locale/zh-CN/
+skin    firessh classic/1.0                      skin/
+overlay chrome://browser/content/browser.xul         chrome://firessh/content/firesshOverlay.xul
+style   chrome://global/content/customizeToolbar.xul chrome://firessh/skin/overlay.css
+
+contract @firessh.net/startup;1 {b0243ea2-dab2-413f-8886-d7c7e701460e}
+component {b0243ea2-dab2-413f-8886-d7c7e701460e} components/firessh-service.js
+category profile-after-change firessh-startup @firessh.net/startup;1

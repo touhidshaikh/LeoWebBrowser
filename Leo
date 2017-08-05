@@ -1,0 +1,34 @@
+#!/bin/sh 
+#
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+app="firefox" 
+
+echo "${app}portable:Debug/Info: 0="$0"" 
+dir=${0%/*} 
+echo "${app}portable:Debug/Info: dir="$dir"" 
+if [ "$dir" = "$0" ]; then 
+  dir="." 
+fi 
+HOME=${dir}/firefox/profile 
+cd "$dir/firefox" 
+echo "${app}portable:Debug/Info: Current Dir="`pwd` 
+
+version=`./$app --version |tr , \ | cut --fields=3 --delimiter=\ ` 
+echo "Welcome to the Linux version of $app $version in portable mode. Feedback is NOT disabled." 
+
+
+if test -d profile ; then 
+printf "${app}portable:Debug/Info: Profile Directory already exists!\n" 
+else 
+mkdir -p profile 
+fi 
+
+
+#Remove the "#" from the next line to disable error output. 
+xterm -e ./$app -no-remote -profile "./profile" $@ 2> /dev/null
+
+echo "${app}portable:Debug/Info: $app is now closed." 
+ 
+echo "${app}portable:Debug/Info: ${app}portable is now closed." 
